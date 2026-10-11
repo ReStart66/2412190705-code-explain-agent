@@ -1,4 +1,7 @@
-# 代码解释 Agent（Code Explain Agent）
+﻿# 代码解释 Agent（Code Explain Agent）
+
+**作者**：陆兵尧（2412190705）
+**仓库地址**：https://github.com/ReStart66/2412190705-code-explain-agent
 
 一个命令行交互的**代码解释助手**：你把源码文件丢给它，它会先读取真实代码，再解释代码的作用与主要逻辑，并可按需生成注释。项目实现了一个完整的 **Agent 循环（输入 → 推理 → 工具调用 → 输出）**，属于「Homework 1 - Code Agent」中的「代码解释 Agent」方向。
 
