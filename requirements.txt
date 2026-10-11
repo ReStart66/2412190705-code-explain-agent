@@ -1,0 +1,6 @@
+# 本项目零第三方依赖，无需安装任何包。
+#
+# 仅使用 Python 标准库（urllib / json / dataclasses 等），
+# 直接调用任意 OpenAI 兼容的 /chat/completions 接口。
+#
+# 运行前只需要：Python 3.10+ 和一个 API Key（写入 .env）。
